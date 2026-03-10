@@ -1,0 +1,5 @@
+# VS Code settings
+.vscode/
+
+# Secrets and credentials
+secrets/
